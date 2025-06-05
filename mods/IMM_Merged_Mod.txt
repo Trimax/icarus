@@ -1,0 +1,8 @@
+Includes the following mods:
+Dextermod: Stronger HVAC
+Extraction 5 Seconds
+laanp-NoCaveCreaturesOW
+laanp-NoSeedFatigue
+laanp-NoWindFallenTrees
+rm_True_Level
+No Weather
