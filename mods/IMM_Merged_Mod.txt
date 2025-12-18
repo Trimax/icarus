@@ -1,8 +1,12 @@
 Includes the following mods:
 Dextermod: Stronger HVAC
 Extraction 5 Seconds
-laanp-NoCaveCreaturesOW
+Jimk LevelingMod
+laanp-NoFreezerIce
 laanp-NoSeedFatigue
-laanp-NoWindFallenTrees
-rm_True_Level
+laanp-PetesBeaconTeleport
 No Weather
+Remove G Slot Restrictions
+rm_True_Level
+WasteNot ULTIMATE
+Sarge_Well_Rested_XP_Buff
